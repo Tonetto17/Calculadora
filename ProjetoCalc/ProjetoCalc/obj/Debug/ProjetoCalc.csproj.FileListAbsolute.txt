@@ -1,0 +1,11 @@
+C:\Users\giovanna.ctonetto\source\repos\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe.config
+C:\Users\giovanna.ctonetto\source\repos\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe
+C:\Users\giovanna.ctonetto\source\repos\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.pdb
+C:\Users\giovanna.ctonetto\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.AssemblyReference.cache
+C:\Users\giovanna.ctonetto\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\giovanna.ctonetto\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.Form1.resources
+C:\Users\giovanna.ctonetto\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.Properties.Resources.resources
+C:\Users\giovanna.ctonetto\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.GenerateResource.cache
+C:\Users\giovanna.ctonetto\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.CoreCompileInputs.cache
+C:\Users\giovanna.ctonetto\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.exe
+C:\Users\giovanna.ctonetto\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.pdb
